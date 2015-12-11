@@ -1,6 +1,6 @@
 # Python's suds example
 
-Teaching myseld some SOAP with suds.
+Teaching myself some SOAP with suds.
 
 This will be needed by one of the projects I work on called [ORACC](https://github.com/UCL-RITS/nammu).
 

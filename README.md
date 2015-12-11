@@ -1,4 +1,4 @@
-# Python's suds example
+# Python's `suds` example
 
 Teaching myself some SOAP with __suds__.
 

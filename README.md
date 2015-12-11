@@ -1,10 +1,10 @@
 # Python's suds example
 
-Teaching myself some SOAP with suds.
+Teaching myself some SOAP with __suds__.
 
-This will be needed by one of the projects I work on called [ORACC](https://github.com/UCL-RITS/nammu).
+This will be needed by one of the projects I work on at UCL called [ORACC](https://github.com/UCL-RITS/nammu).
 
-To run this example you need to install suds, for example: `pip install suds`.
+To run this example you need to install _suds_, for example: `pip install suds`.
 
 To run the examples:
 

@@ -4,7 +4,7 @@ Teaching myself some SOAP with __[SUDS](https://fedorahosted.org/suds/wiki/Docum
 
 This will be needed by one of the projects I work on at UCL called [ORACC](https://github.com/UCL-RITS/nammu).
 
-To run this example you need to install _suds_, for example: `pip install suds`.
+To run this example you need to install _SUDS_, for example: `pip install suds`.
 
 To run the examples:
 

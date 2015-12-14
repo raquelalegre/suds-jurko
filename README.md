@@ -1,6 +1,6 @@
 # Python's _SUDS_ example
 
-Teaching myself some SOAP with __[suds](https://fedorahosted.org/suds/wiki/Documentation)__.
+Teaching myself some SOAP with __[SUDS](https://fedorahosted.org/suds/wiki/Documentation)__.
 
 This will be needed by one of the projects I work on at UCL called [ORACC](https://github.com/UCL-RITS/nammu).
 

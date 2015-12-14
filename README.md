@@ -14,7 +14,12 @@ cd suds-example
 python client.py <url_to_wsdl>
 ```
 
-This will print out the list of method signatures accesible from the given url and their parameters.
+This will print out the list of method signatures accesible from the given url and their parameters, and will call all the methods that don't need parameters. Some examples:
+
+```
+python client.py http://wsf.cdyne.com/WeatherWS/Weather.asmx?WSDL
+python client.py file:///Users/raquelalegre/workspace/training/Jython/soap/SOAPpy/wsdl/osc.wsdl
+```
 
 __Important note__: `suds` seems to not be maintained anymore. Luckily, someone has been contributing trying to keep it updated in a parallel repo until `suds`' developers revive development. The development package for `suds` is known as __[suds-jurko](https://bitbucket.org/jurko/suds)__. To install it you have to make sure `suds` is not installed (e.g. `pip uninstall suds`) and install `suds-jurko` (e.g. `pip install suds-jurko`). To use it, you just need to do `import suds` and it'll automatically link to `suds-jurko`. 
 

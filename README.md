@@ -1,4 +1,4 @@
-# Python's _SUDS_ example
+# Python's SUDS example
 
 Teaching myself some SOAP with __[SUDS](https://fedorahosted.org/suds/wiki/Documentation)__.
 
